@@ -3,42 +3,42 @@
 ![Privacy Certified](Aspose.Words.8e8679d8-7378-402a-9333-db7eb2f35310.001.png)**
 ---------------------------------------------------------------------------------
 **Table of Contents**
-1. [Introduction](#1)
-2. [ESRB Privacy Certified](#2)
-3. [Changes to this Privacy Policy](#3)
-4. [How Does ANG Studio Handle Children's Information?](#4)
-5. [What Information does ANG Studio Collect?](#5)
-6. [How Does ANG Studio Use the Information Collected?](#6)
-7. [How Does ANG Studio Share or Disclose Information?](#7)
-8. [What Should I Know about Social Media and Technology Integrations?](#8)
-9. [What Are My Rights and Choices?](#9)
-10. [How Does ANG Studio Protect Information?](#10)
-11. [Does ANG Studio Transfer Information Internationally?](#11)
-12. [How Do I Contact ANG Studio?](#12)
-13. [What Should I Know as a Data Subject in Europe?](#13)
-14. [What Should I Know as a California Resident?](#14)
-15. [What Should I Know as a Nevada Resident?](#15)
+\1. [Introduction](#1)
+\2. [ESRB Privacy Certified](#2)
+\3. [Changes to this Privacy Policy](#3)
+\4. [How Does ANG Studio Handle Children's Information?](#4)
+\5. [What Information does ANG Studio Collect?](#5)
+\6. [How Does ANG Studio Use the Information Collected?](#6)
+\7. [How Does ANG Studio Share or Disclose Information?](#7)
+\8. [What Should I Know about Social Media and Technology Integrations?](#8)
+\9. [What Are My Rights and Choices?](#9)
+\10. [How Does ANG Studio Protect Information?](#10)
+\11. [Does ANG Studio Transfer Information Internationally?](#11)
+\12. [How Do I Contact ANG Studio?](#12)
+\13. [What Should I Know as a Data Subject in Europe?](#13)
+\14. [What Should I Know as a California Resident?](#14)
+\15. [What Should I Know as a Nevada Resident?](#15)
 
-**1. INTRODUCTION**
+**1. INTRODUCTION**<a name="1"></a>
 
 This Privacy Policy (the **Privacy Policy**) describes how ANG Studio Inc. (**ANG Studio**, **we**, **our** or **us**) collects, uses and discloses information about you as well as your rights and choices about that use and disclosure, and applies to your use of the Budgestudios.com and Budgestudios.ca websites (the **Sites**), the mobile apps published by ANG Studio (the **Apps**) (in this Privacy Policy, the Sites, Apps and Programs are referred to collectively as the **Platforms**). This Privacy Policy also applies to any offline location that makes this Privacy Policy available to you. This Privacy Policy does not apply to the collection, use or disclosure of information through any apps for which ANG Studio is not the publisher.
 
 By using the Platforms or interacting with us offline, you signify your assent to our Privacy Policy, the collection, use and disclosure practices, and other activities described therein. If you do not agree, discontinue any use of our Platforms. In case of discrepancies between the English version and any other versions of this Privacy Policy, the English version shall prevail.
 [Back to the top](#Top)
 
-**2. ESRB PRIVACY CERTIFIED**
+**2. ESRB PRIVACY CERTIFIED**<a name="2"></a>
 
 The ESRB certification seal shown on our Platforms confirms that ANG Studio is a valid licensee, and participating member, of the [Entertainment Software Rating Board's Privacy Certified Program](https://www.esrb.org/faqs/#how-does-the-esrb-know-companies-have-fully-disclosed-all-of-the-content-in-their-game-or-app-and-what-happens-if-they-dont) ([ESRB Privacy Certified](https://www.esrb.org/privacy/)). To help protect your privacy, we have voluntarily undertaken this privacy initiative and have had all areas of our Platforms where this Privacy Policy is posted reviewed and certified by ESRB Privacy Certified to meet established online information collection, use, and disclosure practices. As a licensee of this program, we are subject to audits of our Platforms and other enforcement and accountability mechanisms administered independently by the ESRB.
 
 [Back to the top](#Top)
 
-**3. CHANGES TO THIS PRIVACY POLICY**
+**3. CHANGES TO THIS PRIVACY POLICY**<a name="3"></a>
 
 We reserve the right to make changes to this Privacy Policy at any time. Any changes will be effective immediately upon posting of the revised Privacy Policy. Please check the Privacy Policy each time you use our Platforms to ensure you are aware of any changes in our privacy practices. Our Privacy Policy will indicate the date it was last updated. Your continued use of our Platforms will signify your acceptance of the changes to our Privacy Policy. If there is a material change in the way that we use your information under this Privacy Policy, we will notify you via email of the relevant changes or provide other prominent notice on our Sites and/or Apps.
 
 [Back to the top](#Top)
 
-**4. HOW DOES ANG STUDIO HANDLE CHILDREN'S INFORMATION?**
+**4. HOW DOES ANG STUDIO HANDLE CHILDREN'S INFORMATION?**<a name="4"></a>
 
 **A. Children's Use of the Platforms.**
 
@@ -86,7 +86,7 @@ If you are a parent or guardian and believe that we have collected your child's 
 
 [Back to the top](#Top)
 
-**5. WHAT INFORMATION DOES ANG STUDIO COLLECT?**
+**5. WHAT INFORMATION DOES ANG STUDIO COLLECT?**<a name="5"></a>
 
 **A.** **Information You Provide.**
 
@@ -140,7 +140,7 @@ For more information on these other Services, see the [**What Should I Know abo
 
 [Back to the top](#Top)
 
-**6. HOW DOES ANG STUDIO USE THE INFORMATION COLLECTED?**
+**6. HOW DOES ANG STUDIO USE THE INFORMATION COLLECTED?**<a name="6"></a>
 
 ANG Studio collects and uses information business and commercial purposes in accordance with the practices described in this Privacy Policy. Our business and commercial purposes for collecting and using information include for:
 
@@ -178,7 +178,7 @@ ANG Studio collects and uses information business and commercial purposes in acc
 
 [Back to the top](#Top)
 
-**7. HOW DOES ANG STUDIO SHARE OR DISCLOSE INFORMATION?**
+**7. HOW DOES ANG STUDIO SHARE OR DISCLOSE INFORMATION?**<a name="7"></a>
 
 ANG Studio shares the information we collect in accordance with the practices described in this Privacy Policy for the limited purposes described below. The types of entities to whom we disclose and have shared information with include the following:
 
@@ -200,7 +200,7 @@ Notwithstanding the above, ANG Studio may share or disclose information that doe
 
 [Back to the top](#Top)
 
-**8. WHAT SHOULD I KNOW ABOUT SOCIAL MEDIA AND TECHNOLOGY INTEGRATIONS?**
+**8. WHAT SHOULD I KNOW ABOUT SOCIAL MEDIA AND TECHNOLOGY INTEGRATIONS?**<a name="8"></a>
 
 **A. Links.**
 
@@ -234,7 +234,7 @@ You may contact SuperAwesome directly at privacy@superawesome.com on + 44 203 66
 
 [Back to the top](#Top)
 
-**9. WHAT ARE MY RIGHTS AND CHOICES?**
+**9. WHAT ARE MY RIGHTS AND CHOICES?**<a name="9"></a>
 
 **A. Reviewing, Correcting and Deleting Your Information.**
 
@@ -274,19 +274,19 @@ Please note that your opt-out is limited to the email address or device used and
 
 [Back to the top](#Top)
 
-**10. HOW DOES ANG STUDIO PROTECT INFORMATION?**
+**10. HOW DOES ANG STUDIO PROTECT INFORMATION?**<a name="10"></a>
 
 We implement and maintain reasonable and appropriate administrative, physical, and technical security safeguards designed to help protect the security, integrity, accuracy and privacy of the information you have provided from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. Nevertheless, transmission via the internet is not completely secure and we cannot guarantee the security of information about you.
 
 [Back to the top](#Top)
 
-**11. DOES ANG STUDIO TRANSFER INFORMATION INTERNATIONALLY?**
+**11. DOES ANG STUDIO TRANSFER INFORMATION INTERNATIONALLY?**<a name="11"></a>
 
 Our Platforms are operated in Canada, and the information we collect is governed by Canadian law. If you are accessing the Platforms from outside of Canada, please be aware that information collected through the Platforms will be transferred to, processed, stored, and used in Canada, the United States, and other jurisdictions. Data protection laws in Canada may be different from those of your country of residence. Your use of the Platforms or provision of any information therefore constitutes your consent to the transfer to and from, processing, usage, sharing, and storage of information about you in Canada, the United States, and other jurisdictions as set out in this Privacy Policy. If your data is collected in Europe, we will transfer your personal data subject to appropriate safeguards, including standard contractual clauses.
 
 [Back to the top](#Top)
 
-**12. HOW DO I CONTACT ANG STUDIO?**
+**12. HOW DO I CONTACT ANG STUDIO?**<a name="12"></a>
 
 For any comments, questions, or complaints regarding this Privacy Policy or our privacy practices, please do not hesitate to contact us!
 
@@ -301,7 +301,7 @@ For European specific requests, you can use any of the methods above or as furth
 
 [Back to the top](#Top)
 
-**13. WHAT SHOULD I KNOW AS A DATA SUBJECT IN EUROPE?**
+**13. WHAT SHOULD I KNOW AS A DATA SUBJECT IN EUROPE?**<a name="13"></a>
 
 **A.** **ANG Studio is a Data Controller.**
 
@@ -329,7 +329,7 @@ In addition to the contact information above, please contact our Data Protection
 
 [Back to the top](#Top)
 
-**14. WHAT SHOULD I KNOW AS A CALIFORNIA RESIDENT?**
+**14. WHAT SHOULD I KNOW AS A CALIFORNIA RESIDENT?**<a name="14"></a>
 
 These additional disclosures for California residents apply only to individuals who reside in California. The California Consumer Privacy Act of 2018 (CCPA) provides additional rights, and requires businesses collecting or disclosing personal information to provide notices and means to exercise those rights.
 
@@ -385,7 +385,7 @@ California's Shine the Light law permits customers in California to request cert
 
 If you are a California resident and wish to obtain information about our compliance with this law, please contact us as set out in the [**How Do I Contact ANG Studio?**](#12) section above. Requests must include California Privacy Rights Request in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that ANG Studio is not required to respond to requests made by means other than through the provided email address or mail address.
 
-**15. WHAT SHOULD I KNOW AS A NEVADA RESIDENT?**
+**15. WHAT SHOULD I KNOW AS A NEVADA RESIDENT?**<a name="15"></a>
 
 Nevada consumers may submit requests directing a business not to sell certain kinds of personal information that the business has collected or will collect about the consumer. A sale under Nevada law is the exchange of personal information for monetary consideration by the business to a third party for the third party to license or sell the personal information to other third parties. If you are a Nevada consumer and wish to submit a request relating to our compliance with Nevada law, please contact us at ang.center.studio@gmail.com.
 
