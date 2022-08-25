@@ -207,7 +207,7 @@ Notwithstanding the above, ANG Studio may share or disclose information that doe
 
 If you click on a link to a website, platform, or service not controlled by us, including on an advertisement or an ad provider link, you will leave the ANG Studio Platform you are visiting and go to the site you selected. These other entities may use Tracking Technologies to independently collect information about you and may solicit information from you. Because we cannot control the activities of other entities, we cannot accept responsibility for any use of your information by such entities, and we cannot guarantee that they will adhere to the same privacy and security practices as ANG Studio. We encourage you to review the privacy policies of these other entities from whom you request services. If you visit a website, platform, or service that is linked to on a ANG Studio Platform, you should consult that site's privacy policy before providing any information on that site.
 
-To see what information we share with the entities with whom we work [**Click here to view our SDK Privacy Disclosure**](https://budgestudios.com/en/legal-embed/budge-studios-third-party-privacy-disclosure/?lg=en).
+To see what information we share with the entities with whom we work [**Click here to view our SDK Privacy Disclosure**](https://github.com/ANGCompany/ANG/blob/main/Third-Party%20Privacy%20Disclosure.md).
 
 **B. Brand Pages.**
 
@@ -326,7 +326,7 @@ Where the basis for our processing of personal data from children under 16 in Eu
 
 If you have a complaint about our use of your personal data or response to your requests regarding your personal data, you may submit a complaint to the data protection regulator in your jurisdiction. We would, however, appreciate the opportunity to address your concerns before you approach a data protection regulator, and would welcome you directing an inquiry first to us.
 
-In addition to the contact information above, please contact our Data Protection Officer at dpo@budgestudios.com
+In addition to the contact information above, please contact our Data Protection Officer at ang.center.studio@gmail.com
 
 [Back to the top](#Top)
 
