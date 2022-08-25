@@ -1,7 +1,7 @@
 # **Privacy Policy**
 **ANG STUDIO PRIVACY POLICY
-
-![Privacy Certified]**
+<br/>
+![Privacy Certified]**<br/>
 ---------------------------------------------------------------------------------<br/>
 **Table of Contents**<br/>
 1. [Introduction](#1)<br/>
