@@ -385,6 +385,7 @@ As described above, under **How Does ANG Studio Handle Children's Information?*
 California's Shine the Light law permits customers in California to request certain details about how certain types of their information are shared with third parties and, in some cases, affiliates, for those third parties' and affiliates' own direct marketing purposes. Under the law, a business should either provide California customers certain information upon request or permit California customers to opt in to, or opt out of, this type of sharing.
 
 If you are a California resident and wish to obtain information about our compliance with this law, please contact us as set out in the [**How Do I Contact ANG Studio?**](#12) section above. Requests must include California Privacy Rights Request in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that ANG Studio is not required to respond to requests made by means other than through the provided email address or mail address.
+[Back to the top](#Top)
 
 **15. WHAT SHOULD I KNOW AS A NEVADA RESIDENT?**<a name="15"></a>
 
@@ -403,3 +404,5 @@ Link to the privacy policy of third-party service providers used by the app
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+
+[Back to the top](#Top)
