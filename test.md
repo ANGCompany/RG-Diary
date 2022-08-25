@@ -3,21 +3,21 @@
 ![Privacy Certified](Aspose.Words.8e8679d8-7378-402a-9333-db7eb2f35310.001.png)**
 ---------------------------------------------------------------------------------
 **Table of Contents**
-\1. [Introduction](#1)
-\2. [ESRB Privacy Certified](#2)
-\3. [Changes to this Privacy Policy](#3)
-\4. [How Does ANG Studio Handle Children's Information?](#4)
-\5. [What Information does ANG Studio Collect?](#5)
-\6. [How Does ANG Studio Use the Information Collected?](#6)
-\7. [How Does ANG Studio Share or Disclose Information?](#7)
-\8. [What Should I Know about Social Media and Technology Integrations?](#8)
-\9. [What Are My Rights and Choices?](#9)
-\10. [How Does ANG Studio Protect Information?](#10)
-\11. [Does ANG Studio Transfer Information Internationally?](#11)
-\12. [How Do I Contact ANG Studio?](#12)
-\13. [What Should I Know as a Data Subject in Europe?](#13)
-\14. [What Should I Know as a California Resident?](#14)
-\15. [What Should I Know as a Nevada Resident?](#15)
+1. [Introduction](#1)
+2. [ESRB Privacy Certified](#2)
+3. [Changes to this Privacy Policy](#3)
+4. [How Does ANG Studio Handle Children's Information?](#4)
+5. [What Information does ANG Studio Collect?](#5)
+6. [How Does ANG Studio Use the Information Collected?](#6)
+7. [How Does ANG Studio Share or Disclose Information?](#7)
+8. [What Should I Know about Social Media and Technology Integrations?](#8)
+9. [What Are My Rights and Choices?](#9)
+10. [How Does ANG Studio Protect Information?](#10)
+11. [Does ANG Studio Transfer Information Internationally?](#11)
+12. [How Do I Contact ANG Studio?](#12)
+13. [What Should I Know as a Data Subject in Europe?](#13)
+14. [What Should I Know as a California Resident?](#14)
+15. [What Should I Know as a Nevada Resident?](#15)
 
 **1. INTRODUCTION**
 
