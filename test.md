@@ -3,10 +3,10 @@
 ![Privacy Certified](Aspose.Words.8e8679d8-7378-402a-9333-db7eb2f35310.001.png)**
 ---------------------------------------------------------------------------------
 **Table of Contents**
-\1. [Introduction](#1)
-\2. [ESRB Privacy Certified](#2)
-\3. [Changes to this Privacy Policy](#3)
-\4. [How Does ANG Studio Handle Children's Information?](#4)
+1. [Introduction](#1)
+2. 2. [ESRB Privacy Certified](#2)
+3. 3. [Changes to this Privacy Policy](#3)
+4. 4. [How Does ANG Studio Handle Children's Information?](#4)
 \5. [What Information does ANG Studio Collect?](#5)
 \6. [How Does ANG Studio Use the Information Collected?](#6)
 \7. [How Does ANG Studio Share or Disclose Information?](#7)
